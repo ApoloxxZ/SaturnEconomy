@@ -1,10 +1,15 @@
 ### SaturnEconomy
 
+- 📝 **Permissões**
+
+  - saturneconomy.admin - Acesso aos comandos.
+
 - 📍 **Sistemas:**
 
-  - Sistema de **MySQL** e **SQLite**
-  - **90%** configurável
-  - 
+  - Suporte a **MySQL** e **SQLite**;
+  - **90%** configurável;
+  - Sistema de desativar/ativar recebimento de **coins**;
+  - Top money em menu.
 
 - 🔗 **Comandos:**
 
